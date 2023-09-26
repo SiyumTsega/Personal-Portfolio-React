@@ -1,7 +1,7 @@
 # Personal Portfolio Page
 
 ## Introduction
-This is the personal portfolio page of Siyum Tsega Balcha. The website is built using React.js, CSS, Motion Framer, and Swiper.js. It is deployed on a free Netlify account.
+This is a personal portfolio page website built using React.js, CSS, and Motion Framer, and Swiper.js for the animations. It is deployed on a free Netlify account at https://siyumtsega.netlify.app/.
 
 ## Technologies Used
 - React.js: A JavaScript library for building user interfaces.
